@@ -1,25 +1,21 @@
-# E-commerce Search Bar – Test Plan (Practice)
+# QA Test Plan Practice
 
-## Overview
-This repository contains a sample test plan created for QA practice
-and interview preparation purposes.
+This repository contains manually created Test Plans for Amazon features.
 
-The test plan is based on observing the behaviour of an e-commerce
-search bar feature. This is not an official document of any company.
+## Test Plans Included
 
-## Objective
-- Practice test planning and QA documentation
-- Understand end-to-end user scenarios
-- Improve manual testing and test design skills
+- Amazon Search Bar Test Plan
+- Amazon Pay Balance (Wallet & Gift Card) Test Plan
 
-## Scope
-- Manual testing focused
-- Automation marked as N/A (learning phase)
-- Created as part of QA upskilling
+## Testing Areas Covered
 
-## Skills Demonstrated
-- Test planning
-- Test strategy
-- Test scenario design
-- Test data preparation
-- Functional, negative, boundary testing
+- Functional Testing
+- Negative Testing
+- Boundary Value Testing
+- Edge Case Validation
+- Regression Strategy
+- Compatibility Considerations
+
+These documents demonstrate my understanding of requirement analysis, test planning, and risk identification.
+
+Author: Sumreen Banu H
